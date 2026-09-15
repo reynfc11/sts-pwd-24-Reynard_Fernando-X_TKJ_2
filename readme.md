@@ -72,3 +72,45 @@ Sebagai bagian dari sebuah perusahaan global, Nestlé terus-menerus melakukan pe
 
 1. Mewujudkan masyarakat Indonesia yang lebih sehat melalui produk-produknya yang berkualitas, bergizi dan lezat rasanya.
 2. Selain itu kami juga memfokuskan diri untuk senantiasa memberikan informasi dan pendidikan bagi para konsumen, antara lain seperti tercantum dalam kemasan setiap produk kami.
+
+## Produk
+
+1. Coklat
+   - KitKat
+   - Milo Bar & Nugget
+2. Sereal Sarapan
+   - Honey Stars
+   - Koko Krunch
+   - Milo Cereal
+   - Gold Corn Flakes
+3. Nutrisi Anak
+   - Dancow
+   - Lactogrow
+   - Cerelac
+   - Batita
+4. Nutrisi Kesehatan
+   - Boost Optimum
+   - Isocal
+   - Peptamen
+   - Peptamen Junior
+   - Nutren Fibre
+   - Nutren Diab
+   - Nutren Junior
+5. Produk Kuliner
+   - Maggi
+   - Carnation
+6. Kopi
+   - Nescafé
+   - Nescafé Dolce Gusto
+   - Starbucks Coffee At Home
+7. Susu
+   - Bear Brand
+   - Goodnes
+   - Milo
+8. Nestle Professional
+9. Air
+   - Pure Life
+10. Makanan Hewan Peliharaan
+    - Purina Felix
+    - Purina One
+    - Purina Pro Plan
