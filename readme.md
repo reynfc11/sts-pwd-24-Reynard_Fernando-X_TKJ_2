@@ -63,3 +63,12 @@
   2017 - sekarang
 
   Selain segmen pasar tradisional, Nestlé terus menemukan peluang pertumbuhan baru di bidang kesehatan. Nestlé mengakuisisi berbagai bisnis seperti Zenpep, Vital Proteins, Aimmune, serta kepemilikan mayoritas di Orgain, pemimpin nutrisi berbasis nabati. Perusahaan juga meningkatkan komitmen keberlanjutan, termasuk kemasan dapat didaur ulang dan target Net Zero Emissions.
+
+## Visi
+
+Sebagai bagian dari sebuah perusahaan global, Nestlé terus-menerus melakukan penelitian dan pengembangan untuk terus melakukan penyempurnaan berbagai produk yang dihasilkan. Hal ini dilakukan sejalan dengan berkembangnya konsep dan dimensi makanan, yang kini tidak lagi sekedar untuk memperoleh kenikmatan (enjoyment), namun telah berkembang menuju keafiatan (wellness) dan bermuara pada kehidupan yang sejahtera dan berkualitas (wellbeing).
+
+## Misi
+
+1. Mewujudkan masyarakat Indonesia yang lebih sehat melalui produk-produknya yang berkualitas, bergizi dan lezat rasanya.
+2. Selain itu kami juga memfokuskan diri untuk senantiasa memberikan informasi dan pendidikan bagi para konsumen, antara lain seperti tercantum dalam kemasan setiap produk kami.
