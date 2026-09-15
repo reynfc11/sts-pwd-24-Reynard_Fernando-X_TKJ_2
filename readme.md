@@ -116,13 +116,24 @@ Sebagai bagian dari sebuah perusahaan global, Nestlé terus-menerus melakukan pe
     - Purina Pro Plan
 
 ## Logo
+
 ![Gambar Logo Nestlé](https://www.nestle.co.id/themes/custom/da_vinci_code/logo.svg)
 
 ## Alamat / Kontak
-PT Nestlé Indonesia     
-Arkadia Green Park, Tower G, 11th Floor     
-Jalan Letjen T. B. Simatupang Kav. 88   
-Kebagusan, Pasar Minggu,    
-Jakarta Selatan, DKI Jakarta 12520  
+
+PT Nestlé Indonesia  
+Arkadia Green Park, Tower G, 11th Floor  
+Jalan Letjen T. B. Simatupang Kav. 88  
+Kebagusan, Pasar Minggu,  
+Jakarta Selatan, DKI Jakarta 12520
 
 Telepon: +62 21 5086 6000
+
+## Situs Resmi & Media Sosial
+- [Situs Resmi](https://www.nestle.co.id/)
+- [Instagram](https://www.instagram.com/nestle_indonesia)
+- [Facebook](https://www.facebook.com/NestleID)
+- [Youtube](https://www.youtube.com/@nestle_indonesia)
+- [X](https://twitter.com/nestleindonesia)
+
+
