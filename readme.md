@@ -1,4 +1,4 @@
-# PT Nestle Indonesia
+# PT Nestlé Indonesia
 
 > Good food, Good life
 
@@ -107,10 +107,13 @@ Sebagai bagian dari sebuah perusahaan global, Nestlé terus-menerus melakukan pe
    - Bear Brand
    - Goodnes
    - Milo
-8. Nestle Professional
+8. Nestlé Professional
 9. Air
    - Pure Life
 10. Makanan Hewan Peliharaan
     - Purina Felix
     - Purina One
     - Purina Pro Plan
+
+## Logo
+![Gambar Logo Nestlé](https://www.nestle.co.id/themes/custom/da_vinci_code/logo.svg)
