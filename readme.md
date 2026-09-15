@@ -130,10 +130,20 @@ Jakarta Selatan, DKI Jakarta 12520
 Telepon: +62 21 5086 6000
 
 ## Situs Resmi & Media Sosial
+
 - [Situs Resmi](https://www.nestle.co.id/)
 - [Instagram](https://www.instagram.com/nestle_indonesia)
 - [Facebook](https://www.facebook.com/NestleID)
 - [Youtube](https://www.youtube.com/@nestle_indonesia)
 - [X](https://twitter.com/nestleindonesia)
 
+## Sumber Referensi
 
+- https://www.nestle.co.id/
+- https://id.wikipedia.org/wiki/Nestl%C3%A9
+
+**Saya menyatakan bahwa riset dan kode ini saya kerjakan sendiri. AI hanya digunakan sebagai bantuan penjelasan konsep, bukan untuk menghasilkan jawaban akhir secara langsung.**
+
+(saya tak gunakan AI)
+
+God bless
