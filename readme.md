@@ -117,3 +117,12 @@ Sebagai bagian dari sebuah perusahaan global, Nestlé terus-menerus melakukan pe
 
 ## Logo
 ![Gambar Logo Nestlé](https://www.nestle.co.id/themes/custom/da_vinci_code/logo.svg)
+
+## Alamat / Kontak
+PT Nestlé Indonesia     
+Arkadia Green Park, Tower G, 11th Floor     
+Jalan Letjen T. B. Simatupang Kav. 88   
+Kebagusan, Pasar Minggu,    
+Jakarta Selatan, DKI Jakarta 12520  
+
+Telepon: +62 21 5086 6000
