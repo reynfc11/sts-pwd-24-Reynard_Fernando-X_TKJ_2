@@ -146,4 +146,9 @@ Telepon: +62 21 5086 6000
 
 (saya tak gunakan AI)
 
+## Panduan membuka index.html
+
+1. Download terlebih dahulu "index.html"
+2. Buka "index.html" menggunakan browser pilihan kalian
+
 God bless
